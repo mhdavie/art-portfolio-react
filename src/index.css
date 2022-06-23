@@ -1,0 +1,17 @@
+* {
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "League Spartan", sans-serif;
+
+}
+
+body {
+
+color: white; 
+padding: 2rem;
+background: rgb(38,15,71);
+background: linear-gradient(90deg, rgba(38,15,71,1) 38%, rgba(73,53,126,1) 87%);
+}
+
